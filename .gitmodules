@@ -9,7 +9,7 @@
 	url = https://github.com/rileytestut/Roxas.git
 [submodule "Cores/GBADeltaCore"]
 	path = Cores/GBADeltaCore
-	url = https://github.com/rileytestut/GBADeltaCore.git
+	url = https://github.com/j43cheun/GBADeltaCore.git
 [submodule "Cores/GBCDeltaCore"]
 	path = Cores/GBCDeltaCore
 	url = https://github.com/rileytestut/GBCDeltaCore.git
